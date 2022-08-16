@@ -1,0 +1,3 @@
+Projeto baseado no modelo mobile-first, com 3 diferentes tipos de layout (mobile/tablet/desktop) Todo o projeto foi feito de modo responsivo, clean code e o mais eficiente possivel dentro do proposto pelo curso. Utilizando semanticas e pseudo-classes html/css que fossem mais eficaz para o projeto. O projeto teve pouco uso de JavaScript para poder reforçar o conhecimento na formação html/css da Alura
+
+Desenvolvemos separadamente o css de cada parte do projeto (banner/header/body/footer) e importamos para o styles.css para deixar o codigo mais organizado e limpo. Utilização do swiper.js, media screen, flexbox, fonts, checkbox (menu mobile) para o desenvolvimento..
